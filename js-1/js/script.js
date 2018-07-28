@@ -1,4 +1,10 @@
 
+let answers
+
+
+
+
+
 function myFirstApp(name, age){
 	
 	alert("Привет, меня зовут " + name + " и это моя первая программа!");
